@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="iAjustes">Ajustes</string>
+    <string name="segunda_opcion">Segunda opcion</string>
+    <string name="tvOcupation">Desarrollador</string>
+    <string name="tvName">Rodrigo Gutierrez</string>
+    <string name="tvInfo">Experto en Kotlin</string>
+    <string name="iAbout">Acerca de</string>
+</resources>
